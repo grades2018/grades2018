@@ -8,11 +8,15 @@ Open-source tools and curated lists for authors. This account is maintained by t
 
 ## Awesome lists
 
+- [awesome-lists-for-writers](https://github.com/grades2018/awesome-lists-for-writers) - start here: a hub of curated lists for writers and self-publishers, ours and third-party
 - [awesome-kdp-ai-tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors
 - [awesome-ai-novel-editors](https://github.com/grades2018/awesome-ai-novel-editors) - manuscript rewrite, line editing and critique tools for novels
 - [awesome-ai-book-series-tools](https://github.com/grades2018/awesome-ai-book-series-tools) - series bibles, continuity and multi-book writing
 - [awesome-romance-ai-writers](https://github.com/grades2018/awesome-romance-ai-writers) - writing tools for romance novelists
 - [awesome-ai-fantasy-writing-tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - tools for fantasy and speculative fiction writers
 - [awesome-worldbuilding-lore-tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - worldbuilding, lore and setting continuity
+- [awesome-ai-ghostwriting-tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - tools for ghostwriters turning client interviews into books
+- [awesome-memoir-writing-tools](https://github.com/grades2018/awesome-memoir-writing-tools) - turning memories and family stories into a memoir
+- [awesome-lead-magnet-ebooks](https://github.com/grades2018/awesome-lead-magnet-ebooks) - drafting, designing and delivering lead magnet ebooks
 
 Corrections, missing tools and issue reports are welcome in each repository.
