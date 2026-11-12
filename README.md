@@ -18,5 +18,6 @@ Open-source tools and curated lists for authors. This account is maintained by t
 - [awesome-ai-ghostwriting-tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - tools for ghostwriters turning client interviews into books
 - [awesome-memoir-writing-tools](https://github.com/grades2018/awesome-memoir-writing-tools) - turning memories and family stories into a memoir
 - [awesome-lead-magnet-ebooks](https://github.com/grades2018/awesome-lead-magnet-ebooks) - drafting, designing and delivering lead magnet ebooks
+- [awesome-ai-graded-readers](https://github.com/grades2018/awesome-ai-graded-readers) - AI tools and resources for graded readers at a learner's language level
 
 Corrections, missing tools and issue reports are welcome in each repository.
