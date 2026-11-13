@@ -5,6 +5,7 @@ Open-source tools and curated lists for authors. This account is maintained by t
 ## Tools
 
 - [fiction-slop-lint](https://github.com/grades2018/fiction-slop-lint) - an offline style linter for fiction manuscripts (Python CLI, no dependencies, plus a [browser version](https://grades2018.github.io/fiction-slop-lint/)). It flags cliches, overused phrases, repetition and rhythm habits. It is a style linter, not an AI detector.
+- [book-page-count-estimator](https://github.com/grades2018/book-page-count-estimator) - a browser calculator that turns a word count into an estimated paperback page count, KDP spine width and full cover wrap size ([live tool](https://grades2018.github.io/book-page-count-estimator/)).
 
 ## Awesome lists
 
